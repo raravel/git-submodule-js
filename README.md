@@ -2,6 +2,9 @@
 
 This modules is git submodule file (.gitmodules) de/serializer in javascript.
 
+[![NPM Version](https://img.shields.io/npm/v/git-submodule-js)](https://www.npmjs.com/package/git-submodule-js)
+
+
 ## Install
 
 ```sh
